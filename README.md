@@ -1,4 +1,6 @@
-### Hi there 👋
+### ¡Hola! Mi nombre en Joaquín Ruaimi
+
+**Desarrollador C++ y full stack web con Node.js**
 
 <!--
 **joaquinrmi/joaquinrmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
