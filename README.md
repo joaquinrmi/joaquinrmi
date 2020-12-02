@@ -1,6 +1,6 @@
 ### ¡Hola! Mi nombre en Joaquín Ruaimi
 
-**Desarrollador C++ y desarrollador web full stack con Node.js y React**
+**Desarrollador web full stack con Node.js, React y MongoDB**
 
 <!--
 **joaquinrmi/joaquinrmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
