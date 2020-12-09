@@ -1,4 +1,4 @@
-### ¡Hola! Mi nombre en Joaquín Ruaimi
+### ¡Hola! Mi nombre es Joaquín Ruaimi
 
 **Desarrollador web full stack con Node.js, React y MongoDB**
 
