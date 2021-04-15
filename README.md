@@ -1,8 +1,8 @@
 ### ¡Hola! Mi nombre es Joaquín Ruaimi
 
-**Desarrollador web full stack con conocimientos de Node.js, React, MongoDB y PostgreSQL**
+**Desarrollador web full stack con conocimientos de Node.js, React, MongoDB y PostgreSQL**.
 
-Además, me gusta desarrollar en **C++**, **C#** y **Python**.
+Además, me gusta desarrollar en **C++** y **C#**.
 
 Puedes ver mi porfolio en [Porfolio](https://joaquinrmi.github.io/porfolio/).
 
